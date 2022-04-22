@@ -26,10 +26,10 @@ ext {
     sdk = 28
     minSdk = 14
 
-    github = 'https://github.com/florent37/SingleDateAndTimePicker'
+    github = 'https://github.com/pgrupa/SingleDateAndTimePicker'
 
-    libraryGroup = 'com.github.florent37'
+    libraryGroup = 'com.github.pgrupa'
     libraryName = 'singledateandtimepicker'
-    libraryVersion = "2.2.8"
+    libraryVersion = "2.2.9"
     libraryDescription = 'SingleDateAndTimePicker'
 }
